@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>🎓 B.Tech in Computer Science & Engineering (AI & ML)<br>🔭 Currently building projects through Harvard's CS50x<br>🌱 Learning C, Python, SQL, Git, Data Structures & Algorithms<br>💡 Passionate about Computer Science fundamentals, problem-solving, and writing clean, maintainable code<br>🚀 Documenting my journey from beginner to software engineer through consistent learning and hands-on projects<br>📫 Reach me at: systronixhub@proton.me<br>
+🎓 B.Tech in Computer Science & Engineering (AI & ML)<br>🔭 Currently building projects through Harvard's CS50x<br>🌱 Learning C, Python, SQL, Git, Data Structures & Algorithms<br>💡 Passionate about Computer Science fundamentals, problem-solving, and writing clean, maintainable code<br>🚀 Documenting my journey from beginner to software engineer through consistent learning and hands-on projects<br>📫 Reach me at: systronixhub@proton.me<br>
 
 
 ## 🌐 Socials:
